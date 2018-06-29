@@ -1,5 +1,5 @@
 # Excel-Spreadsheet-Utils
-Utility class for creating spreadsheets from data stored in xml files under the res/xml Android project resources folder.
+Utility class for creating spreadsheets from data stored in xml files under the res/xml Android project resources folder. The spreadsheets are stored in external storage under the folder ResourceSpreadsheets.
 
 Primary use is for creating a spreadsheet with to consolidate similarly named fields listed in different Android resource files into one Excel spreadsheet. The source files should be placed in the project res/xml folder. Corresponding data from each file will be packaged into a spreadsheet under column names specified by the user.
 
