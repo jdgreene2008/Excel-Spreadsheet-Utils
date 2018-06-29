@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:2:11-43
+		INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+		INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+		ADDED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+		ADDED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml:4:22-78
+uses-sdk
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+		ADDED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+		INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+		ADDED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml
+		INJECTED from /Users/jgreene/Documents/Propay/propay/Android/xml_utils/src/main/AndroidManifest.xml

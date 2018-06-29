@@ -1,0 +1,4 @@
+#Thu Jun 28 11:45:13 EDT 2018
+base.0=/Users/jgreene/Documents/Propay/propay/Android/xml_utils/build/intermediates/transforms/dexMerger/androidTest/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

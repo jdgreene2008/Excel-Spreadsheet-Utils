@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="title_activity_return">Devolver transacción</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="title_activity_tax_rate_setting">Impuesto sobre ventas</string>
+    <string name="title_activity_signature_setting">La firma</string>
+    <string name="title_activity_help">Ayuda</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen Titles -->
+    <string name="title_activity_return">Return Transaction</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_tax_rate_setting">Sales Tax</string>
+    <string name="title_activity_signature_setting">Signature</string>
+    <string name="title_activity_help">Help</string>
+
+</resources>
